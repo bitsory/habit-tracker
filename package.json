@@ -1,5 +1,5 @@
 {
-  "name": "template",
+  "name": "habit-tracker",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://bitsory.github.io/react_basic_habit_tracker/",
@@ -14,7 +14,7 @@
     "react-scripts": "3.4.3"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
